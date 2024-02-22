@@ -1,0 +1,8 @@
+
+# Ignore SAM model checkpoint
+sam_vit_h_4b8939.pth
+
+# Ignore LAS data files
+DATA/34FN2_18.las
+DATA/ITC_BUILDING.las
+DATA/pcd_results.las
